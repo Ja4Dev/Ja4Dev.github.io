@@ -869,3 +869,19 @@ textarea {
 }
 
 /*# sourceMappingURL=base.css.map */
+
+ul.nav {
+	text-align: center;
+	background-color: #000;
+  }
+  ul.nav > li {
+	display: inline-block;
+	padding: 10px 20px;
+  }
+  ul.nav > li:hover {
+	background-color: #cc005f;
+  }
+  ul.nav > li > a {
+	color: white;
+	text-decoration: none;
+  }
